@@ -4,7 +4,6 @@ Listaeduardo
 '''Data:27/11/2018'''
 # -*- coding: utf-8 -*-
 #Author: Charlyston
-import os
 
 tam = 5
 lista = {}
